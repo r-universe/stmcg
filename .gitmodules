@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "estmeansd"]
+	path = estmeansd
+	url = https://github.com/stmcg/estmeansd
+	shallow = true
+	registered = true
+[submodule "metamedian"]
+	path = metamedian
+	url = https://github.com/stmcg/metamedian
+	shallow = true
+	registered = true

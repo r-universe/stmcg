@@ -2,5 +2,9 @@
   {
     "package": "estmeansd",
     "oncran": true
+  },
+  {
+    "package": "metamedian",
+    "oncran": true
   }
 ]

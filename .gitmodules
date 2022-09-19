@@ -8,3 +8,8 @@
 	url = https://github.com/stmcg/estmeansd
 	shallow = true
 	registered = true
+[submodule "metamedian"]
+	path = metamedian
+	url = https://github.com/stmcg/metamedian
+	shallow = true
+	registered = true

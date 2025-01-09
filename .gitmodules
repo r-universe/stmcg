@@ -5,6 +5,9 @@
 [submodule "estmeansd"]
 	path = estmeansd
 	url = https://github.com/stmcg/estmeansd
+[submodule "learner"]
+	path = learner
+	url = https://github.com/stmcg/learner
 [submodule "metamedian"]
 	path = metamedian
 	url = https://github.com/stmcg/metamedian

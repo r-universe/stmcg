@@ -11,6 +11,9 @@
 [submodule "metamedian"]
 	path = metamedian
 	url = https://github.com/stmcg/metamedian
+[submodule "miapack"]
+	path = miapack
+	url = https://github.com/stmcg/miapack
 [submodule "smoothedIPW"]
 	path = smoothedIPW
 	url = https://github.com/stmcg/smoothedipw
